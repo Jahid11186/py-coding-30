@@ -1,4 +1,4 @@
-# HackerRank-coding-30-days-with-Python
+# HackerRank: 30 days of coding with Python
 
 Day 01: Data Types
 Day 02: Operators
